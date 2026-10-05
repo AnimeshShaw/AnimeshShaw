@@ -17,10 +17,6 @@
   <a href="https://github.com/sponsors/AnimeshShaw"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img src="https://hit.yhype.me/github/profile?account_id=4423388" alt="Profile views"/>
-</p>
-
 ---
 
 ### What I work on
@@ -30,6 +26,10 @@
 - **Post-quantum crypto, in two languages, byte-identical.** [quantum-safe-py](https://github.com/AnimeshShaw/quantum-safe-py) and [quantum-safe-ts](https://github.com/AnimeshShaw/quantum-safe-ts) — same hybrid KEM/signatures, same output, Python and TypeScript.
 - **I publish evidence, not opinions.** Benchmarks on where LLM-generated infrastructure code breaks, and where PQC migration tooling actually fails.
 - **I teach what I ship.** Mentor at IIT Roorkee and IIT Mandi. Trained 80+ engineers on AI security and agentic coding.
+
+### Core areas of research
+
+Agentic AI Security · Prompt-Injection & Tool-Call Mediation · AI Agent Identity & Runtime Governance · Post-Quantum Cryptography (ML-KEM, ML-DSA, SLH-DSA) · Cryptographic Migration & Crypto-Inventory · AI-Augmented AppSec (SAST/DAST) · LLM-Generated Code Security Benchmarking · Agentic Malware Analysis · DevSecOps Automation · Threat Modeling & Security Education
 
 ### Research & publications
 
