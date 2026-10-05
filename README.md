@@ -15,6 +15,10 @@
   <a href="https://github.com/sponsors/AnimeshShaw"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white"/></a>
 </p>
 
+<p align="center">
+  <img src="https://hit.yhype.me/github/profile?account_id=4423388" alt="Profile views"/>
+</p>
+
 ---
 
 ### What I work on
