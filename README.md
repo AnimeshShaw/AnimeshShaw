@@ -25,11 +25,11 @@
 
 ### What I work on
 
-- **Leading security at scale.** I run Application Security, DevSecOps, Infrastructure Security & Vulnerability Management, and Offensive Security at EXL — a ~40-person organization inside a 70,000-person, five-geography enterprise. I took our DevSecOps pipeline from largely manual to 98% automated.
-- **Agentic AI security, in production.** Sole inventor on a patent-pending agentic AI system for autonomous vulnerability discovery and remediation, now in active technical engagement with enterprise clients. I'm leading my org's Application Security Center of Excellence through the shift to agentic, AI-assisted workflows, and core to our AI runtime security and AI-agent identity governance work.
-- **Post-quantum cryptography, byte-for-byte.** [quantum-safe-py](https://github.com/AnimeshShaw/quantum-safe-py) and [quantum-safe-ts](https://github.com/AnimeshShaw/quantum-safe-ts) are hybrid KEM/signature libraries for Python and TypeScript, verified byte-compatible with each other — not two unrelated implementations that happen to share a name.
-- **Evidence over theory.** I publish benchmarks, not opinions: where LLM-generated infrastructure code fails security checks against human engineering baselines, and where post-quantum migration tooling actually breaks in production.
-- **Teaching what I use.** Industry mentor for security and AI programs at IIT Roorkee and IIT Mandi; trained 80+ engineers internally on AI security and agentic coding; open curricula on threat modeling and secure code review that anyone can run.
+- **I run security for 70,000 people.** AppSec, DevSecOps, Infra Security, Offensive Security — ~40 engineers, five countries, at EXL. DevSecOps: manual → 98% automated, on my watch.
+- **Agentic AI security isn't theoretical for me.** Patent-pending inventor on an autonomous vulnerability discovery-and-remediation system, now live with enterprise clients.
+- **Post-quantum crypto, in two languages, byte-identical.** [quantum-safe-py](https://github.com/AnimeshShaw/quantum-safe-py) and [quantum-safe-ts](https://github.com/AnimeshShaw/quantum-safe-ts) — same hybrid KEM/signatures, same output, Python and TypeScript.
+- **I publish evidence, not opinions.** Benchmarks on where LLM-generated infrastructure code breaks, and where PQC migration tooling actually fails.
+- **I teach what I ship.** Mentor at IIT Roorkee and IIT Mandi. Trained 80+ engineers on AI security and agentic coding.
 
 ### Research & publications
 
